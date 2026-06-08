@@ -1,0 +1,15 @@
+# Arduino
+build/
+*.hex
+*.elf
+*.bin
+*.a
+*.o
+
+# VS Code / PlatformIO
+.vscode/
+.pio/
+
+# OS generated files
+.DS_Store
+Thumbs.db
