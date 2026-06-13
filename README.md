@@ -1,3 +1,5 @@
+<img width="1079" height="2153" alt="1000106442" src="https://github.com/user-attachments/assets/70d70465-d4f3-41d3-9204-89de2ceb8d67" />
+<img width="1080" height="2120" alt="1000106438" src="https://github.com/user-attachments/assets/34b084f2-e9fc-427a-8cee-3f364f195394" />
 # 🎓 AI Student Companion — Voice AI for Distraction-Free Learning
 
 voice-first AI tutor built on ESP32-S3 that lets 
