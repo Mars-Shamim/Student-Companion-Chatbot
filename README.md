@@ -35,3 +35,4 @@ No screen. No distraction. No compromise.
 - Google Gemini Live API (native audio)
 - Google Apps Script + Google Sheets
 - Arduino / ESP-IDF
+<img width="1408" height="768" alt="1000106437" src="https://github.com/user-attachments/assets/6d206171-519f-49a0-a416-d8ba3c9eeab9" />
